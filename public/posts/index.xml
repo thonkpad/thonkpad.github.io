@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Thonkpad</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Thonkpad</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Apr 2025 12:59:34 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write a Purely Functional Brainfuck Interpreter in OCaml</title>
+      <link>https://example.org/posts/branefrick/</link>
+      <pubDate>Sun, 27 Apr 2025 12:59:34 +0800</pubDate>
+      <guid>https://example.org/posts/branefrick/</guid>
+      <description>Let&amp;#39;s learn a bit about OCaml and zippers writing this program</description>
+    </item>
+  </channel>
+</rss>

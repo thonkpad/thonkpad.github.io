@@ -1,0 +1,14 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Thonkpad'
+theme: 'PaperMod'
+
+params:
+  cover:
+  ShowToc: true
+  homeInfoParams:
+    Title: "Hello, visitor."
+    Content: "This is where I share a bit about myself and write about things I learn to reinforce my knowledge and improve my writing."
+  
+  mainSections:
+    - "posts"
