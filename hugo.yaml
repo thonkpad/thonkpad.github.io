@@ -12,3 +12,7 @@ params:
   
   mainSections:
     - "posts"
+
+caches:
+  images:
+    dir: :cacheDir/images
